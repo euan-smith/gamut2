@@ -19,7 +19,7 @@
     "@mdi/font": "^3.8.95",
     "@vue/cli-plugin-babel": "^3.10.0",
     "@vue/cli-plugin-unit-mocha": "^3.10.0",
-    "@vue/cli-service": "^3.10.0",
+    "@vue/cli-service": "^5.0.8",
     "@vue/test-utils": "1.0.0-beta.29",
     "chai": "^4.1.2",
     "convex-hull": "^1.0.3",
